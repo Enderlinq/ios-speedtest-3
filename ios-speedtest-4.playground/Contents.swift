@@ -30,9 +30,9 @@ print(multiplication(number1:5,number2:7))
 //: # 3️⃣ struct
 // struct...
 struct Student {
-    var Name: String
-    var Age: Int
-    var Hobbies: [String]
+    var name: String
+    var age: Int
+    var hobbies: [String]
 }
 
 
